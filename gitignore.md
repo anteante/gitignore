@@ -1,20 +1,23 @@
-# OSX
+# System files
+# ------------
+
 .DS_Store
 .DS_Store?
-._*
 .Spotlight-V100
 .Trashes
 ehthumbs.db
 Thumbs.db
 
+
+# SASS
+# ------------
+
 # SASS
 .sass-cache
 css/base.css
 
-# SublimeText
-*.sublime-project
-*.sublime-workspace
+# CodeKit
+# ------------
 
-#CodeKit
 config.codekit
-_BU/
+config.codekit3
